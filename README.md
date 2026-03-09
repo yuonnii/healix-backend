@@ -210,4 +210,5 @@ Doctor = dr.karim.benali@healix-demo.dz
 Pharmacy = pharmacie_centrale_dalg_0@healix-demo.dz 
 Admin = admin@gmail.com (pw = adminadmin)
 #   t e m p h e a l i x  
+ #   h e a l i x - b a c k e n d  
  

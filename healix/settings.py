@@ -27,6 +27,7 @@ def get_env(key, default=None):
 
 SECRET_KEY = get_env('SECRET_KEY', 'healix-insecure-dev-key-change-in-production-min-50-chars!!')
 DEBUG = get_env('DEBUG', 'True') == 'True'
+    # change in production
 ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
