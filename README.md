@@ -207,7 +207,7 @@ All passwords are `Healix2026!` aside for admin.
 
 Patient = sara.benali@healix-demo.dz 
 Doctor = dr.karim.benali@healix-demo.dz 
-Pharmacy = pharmacie_centrale_dalg_0@healix-demo.dz 
+Pharmacy = pharmacie_pharmacie_centrale_d_0@healix-demo.dz 
 Admin = admin@gmail.com (pw = adminadmin)
  #   h e a l i x - b a c k e n d 
  
